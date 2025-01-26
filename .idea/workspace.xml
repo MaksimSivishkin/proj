@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbe22f32-40a1-45ef-a6d6-b9bda058141c" name="Changes" comment="Доработка логики проекта" />
+    <list default="true" id="fbe22f32-40a1-45ef-a6d6-b9bda058141c" name="Changes" comment="Доработка логики проекта">
+      <change beforePath="$PROJECT_DIR$/../proj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../proj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj/src/main/java/com/stepup/proj/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj/src/main/java/com/stepup/proj/MainApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,8 +36,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.MainApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Msivishkin/IdeaProjects/proj/src/main/java/com/stepup/Main.java"
@@ -57,7 +62,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737882819208</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Доработка логики проекта">
+      <option name="closed" value="true" />
+      <created>1737883042057</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737883042057</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Доработка логики проекта">
+      <option name="closed" value="true" />
+      <created>1737883208676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737883208676</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
