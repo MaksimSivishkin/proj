@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbe22f32-40a1-45ef-a6d6-b9bda058141c" name="Changes" comment="" />
+    <list default="true" id="fbe22f32-40a1-45ef-a6d6-b9bda058141c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../proj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../proj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj/src/main/java/com/stepup/proj/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj/src/main/java/com/stepup/proj/MainApplication.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,12 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../proj" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../proj/src/main/java/com/stepup/proj/MainApplication.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -29,6 +38,7 @@
   "keyToString": {
     "Application.MainApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Msivishkin/IdeaProjects/proj/src/main/java/com/stepup/Main.java"
   }
@@ -43,5 +53,16 @@
       <updated>1737881070181</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
