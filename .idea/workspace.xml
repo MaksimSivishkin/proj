@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbe22f32-40a1-45ef-a6d6-b9bda058141c" name="Changes" comment="Доработка логики проекта">
-      <change beforePath="$PROJECT_DIR$/../proj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../proj/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../proj/src/main/java/com/stepup/proj/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj/src/main/java/com/stepup/proj/MainApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="fbe22f32-40a1-45ef-a6d6-b9bda058141c" name="Changes" comment="Доработка логики проекта 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../proj" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../proj" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -40,7 +42,7 @@
     "Application.MainApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "ficher/TASK0.0.1",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Msivishkin/IdeaProjects/proj/src/main/java/com/stepup/Main.java"
   }
@@ -78,7 +80,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737883208676</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Доработка логики проекта 1">
+      <option name="closed" value="true" />
+      <created>1737884259508</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737884259508</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Доработка логики проекта 2">
+      <option name="closed" value="true" />
+      <created>1737884273459</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737884273459</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Доработка логики проекта 3">
+      <option name="closed" value="true" />
+      <created>1737884300284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737884300284</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +120,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Доработка логики проекта" />
-    <option name="LAST_COMMIT_MESSAGE" value="Доработка логики проекта" />
+    <MESSAGE value="Доработка логики проекта 1" />
+    <MESSAGE value="Доработка логики проекта 2" />
+    <MESSAGE value="Доработка логики проекта 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Доработка логики проекта 3" />
   </component>
 </project>
